@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 20:00:15 -0500"
@@ -845,6 +851,12 @@
   "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
     },
     "done": true
   },
@@ -2097,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-01-10 02:23:52 -0500"
@@ -2283,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2021-01-09 19:36:09 -0500"
@@ -2411,6 +2435,12 @@
   "create:polished_rose_quartz": {
     "criteria": {
       "0": "2021-01-10 13:45:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
     },
     "done": true
   },
@@ -2760,6 +2790,12 @@
   "create:recipes/create.palettes/dolomite_cobblestone_from_dolomite_stonecutting": {
     "criteria": {
       "has_dolomite": "2021-01-10 02:21:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
     },
     "done": true
   },
@@ -3165,6 +3201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2021-01-09 21:50:18 -0500"
@@ -3279,6 +3321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-01-09 19:40:47 -0500"
@@ -3300,6 +3348,12 @@
   "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2021-01-10 02:15:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-11 15:19:40 -0500"
     },
     "done": true
   },
