@@ -2655,6 +2655,12 @@
     },
     "done": true
   },
+  "create:mechanical_saw": {
+    "criteria": {
+      "0": "2021-01-11 16:28:58 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2021-01-09 20:04:42 -0500"
