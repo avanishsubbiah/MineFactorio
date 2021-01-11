@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2021-01-09 20:06:44 -0500"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-01-11 13:06:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 20:00:15 -0500"
@@ -434,6 +446,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-09 21:28:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-01-11 13:40:06 -0500"
     },
     "done": true
   },
@@ -605,6 +623,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-01-09 19:36:09 -0500"
@@ -707,6 +731,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-01-09 21:44:44 -0500"
@@ -796,6 +826,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2021-01-10 01:03:36 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
     },
     "done": true
   },
@@ -1039,6 +1075,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/adjustable_crate": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 22:40:42 -0500"
@@ -1181,6 +1223,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-01-09 23:09:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-01-11 13:40:06 -0500"
     },
     "done": true
   },
@@ -1343,6 +1391,12 @@
   "create:recipes/create.base/crafting/kinetics/sail_frame": {
     "criteria": {
       "has_item": "2021-01-09 20:04:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
     },
     "done": true
   },
@@ -1820,6 +1874,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-01-09 21:43:59 -0500"
@@ -1907,6 +1967,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-01-09 19:40:47 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
     },
     "done": true
   },
@@ -2171,6 +2237,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2021-01-09 20:06:44 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
     },
     "done": true
   },
@@ -2594,6 +2666,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-01-09 19:45:20 -0500"
@@ -2924,6 +3002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-01-11 13:06:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-10 00:33:47 -0500"
@@ -3005,6 +3089,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 22:40:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2021-01-11 13:45:49 -0500"
     },
     "done": true
   },
@@ -3803,6 +3893,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2021-01-10 02:33:27 -0500"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2021-01-11 13:45:49 -0500"
     },
     "done": true
   },
