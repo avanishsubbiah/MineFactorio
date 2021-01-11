@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-01-11 17:53:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-09 22:33:32 -0500"
@@ -858,6 +864,7 @@
       "minecraft:blaze": "2021-01-10 01:43:13 -0500",
       "minecraft:skeleton": "2021-01-09 19:40:19 -0500",
       "minecraft:ravager": "2021-01-09 23:26:24 -0500",
+      "minecraft:hoglin": "2021-01-11 17:21:55 -0500",
       "minecraft:spider": "2021-01-09 19:38:06 -0500",
       "minecraft:creeper": "2021-01-09 23:11:04 -0500",
       "minecraft:wither_skeleton": "2021-01-10 01:39:42 -0500",
@@ -1899,6 +1906,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-09 19:30:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-01-11 17:52:28 -0500"
     },
     "done": true
   },
