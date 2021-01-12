@@ -801,7 +801,9 @@
       "minecraft:spider": "2021-01-09 19:49:54 -0500",
       "minecraft:creeper": "2021-01-09 19:49:12 -0500",
       "minecraft:slime": "2021-01-09 21:25:54 -0500",
+      "minecraft:phantom": "2021-01-11 21:25:45 -0500",
       "minecraft:cave_spider": "2021-01-10 16:49:06 -0500",
+      "minecraft:piglin": "2021-01-11 21:09:52 -0500",
       "minecraft:silverfish": "2021-01-10 15:44:37 -0500",
       "minecraft:enderman": "2021-01-10 22:41:35 -0500",
       "minecraft:zombie": "2021-01-09 19:48:07 -0500"
@@ -1310,6 +1312,12 @@
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2021-01-10 21:32:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-01-11 21:09:49 -0500"
     },
     "done": true
   },
@@ -1963,6 +1971,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2021-01-10 21:37:12 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2021-01-11 21:54:10 -0500"
     },
     "done": true
   },

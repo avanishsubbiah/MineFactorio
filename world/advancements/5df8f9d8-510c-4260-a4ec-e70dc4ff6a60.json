@@ -1304,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-01-11 21:23:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-01-10 01:54:48 -0500"
