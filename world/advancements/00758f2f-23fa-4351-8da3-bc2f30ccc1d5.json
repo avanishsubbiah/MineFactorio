@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 17:15:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-01-09 19:33:56 -0500"
@@ -400,6 +406,12 @@
       "has_blackstone": "2021-01-10 15:29:19 -0500"
     },
     "done": true
+  },
+  "create:basin": {
+    "criteria": {
+      "1": "2021-01-12 17:10:34 -0500"
+    },
+    "done": false
   },
   "create:brass": {
     "criteria": {
@@ -650,6 +662,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-09 20:11:08 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 17:15:34 -0500"
     },
     "done": true
   },
@@ -1375,6 +1393,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 17:07:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-09 20:11:03 -0500"
@@ -1663,6 +1687,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2021-01-12 17:10:34 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2021-01-09 20:11:43 -0500"
@@ -1725,9 +1755,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-01-12 17:22:58 -0500",
       "minecraft:mountains": "2021-01-09 20:58:20 -0500",
       "minecraft:forest": "2021-01-09 23:22:42 -0500",
       "minecraft:desert_hills": "2021-01-11 00:50:01 -0500",
+      "minecraft:deep_cold_ocean": "2021-01-12 17:23:54 -0500",
       "minecraft:desert": "2021-01-11 00:50:12 -0500",
       "minecraft:birch_forest": "2021-01-11 00:48:14 -0500",
       "minecraft:badlands": "2021-01-10 23:38:27 -0500",
@@ -2553,6 +2585,12 @@
   "create:fan_lava": {
     "criteria": {
       "0": "2021-01-11 00:41:00 -0500"
+    },
+    "done": true
+  },
+  "create:spout_potion": {
+    "criteria": {
+      "0": "2021-01-12 17:13:03 -0500"
     },
     "done": true
   },
@@ -3970,6 +4008,12 @@
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-01-09 19:56:57 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 17:07:38 -0500"
     },
     "done": true
   },
