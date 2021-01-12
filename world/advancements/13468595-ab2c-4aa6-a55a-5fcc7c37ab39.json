@@ -914,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-01-11 22:22:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-01-09 19:30:44 -0500"
@@ -1638,6 +1644,12 @@
   "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-01-09 21:55:33 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/limestone": {
+    "criteria": {
+      "has_item": "2021-01-11 22:22:28 -0500"
     },
     "done": true
   },
