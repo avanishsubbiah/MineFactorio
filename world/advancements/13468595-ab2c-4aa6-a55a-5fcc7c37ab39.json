@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/brass_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 15:02:33 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-01-09 21:17:22 -0500"
@@ -3387,6 +3393,12 @@
   "create:recipes/create.palettes/paved_dolomite_from_dolomite_stonecutting": {
     "criteria": {
       "has_dolomite": "2021-01-10 02:21:25 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/brass_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 15:02:33 -0500"
     },
     "done": true
   },
