@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2021-01-12 00:27:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-09 22:33:32 -0500"
@@ -902,6 +908,7 @@
       "minecraft:ravager": "2021-01-09 23:26:24 -0500",
       "minecraft:ghast": "2021-01-11 20:11:59 -0500",
       "minecraft:hoglin": "2021-01-11 17:21:55 -0500",
+      "minecraft:magma_cube": "2021-01-12 00:23:01 -0500",
       "minecraft:spider": "2021-01-09 19:38:06 -0500",
       "minecraft:creeper": "2021-01-09 23:11:04 -0500",
       "minecraft:phantom": "2021-01-11 23:58:40 -0500",
@@ -922,6 +929,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-01-10 19:42:41 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2021-01-12 00:48:49 -0500"
     },
     "done": true
   },
@@ -1138,6 +1151,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-10 23:23:16 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2021-01-12 00:27:14 -0500"
     },
     "done": true
   },
@@ -1404,6 +1423,12 @@
   "create:belt_funnel": {
     "criteria": {
       "0": "2021-01-11 00:39:33 -0500"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2021-01-12 00:27:14 -0500"
     },
     "done": true
   },
@@ -1773,6 +1798,18 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2021-01-12 00:35:34 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2021-01-12 00:27:34 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-01-09 21:32:39 -0500"
@@ -1998,6 +2035,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-09 19:30:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2021-01-12 00:27:14 -0500"
     },
     "done": true
   },
@@ -2236,6 +2279,12 @@
   "create:recipes/create.base/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2021-01-10 02:24:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-01-12 00:48:49 -0500"
     },
     "done": true
   },
@@ -2721,6 +2770,12 @@
   "create:fan_lava": {
     "criteria": {
       "0": "2021-01-10 22:39:25 -0500"
+    },
+    "done": true
+  },
+  "create:spout_potion": {
+    "criteria": {
+      "0": "2021-01-12 00:35:34 -0500"
     },
     "done": true
   },
@@ -3222,6 +3277,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2021-01-12 00:27:14 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-09 19:41:41 -0500"
@@ -3321,6 +3382,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2021-01-09 21:14:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-01-12 00:34:21 -0500"
     },
     "done": true
   },
