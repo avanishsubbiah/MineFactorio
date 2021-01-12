@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-01-12 04:11:17 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-01-12 01:56:20 -0500"
