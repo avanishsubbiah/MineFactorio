@@ -910,6 +910,7 @@
       "minecraft:hoglin": "2021-01-11 17:21:55 -0500",
       "minecraft:magma_cube": "2021-01-12 00:23:01 -0500",
       "minecraft:spider": "2021-01-09 19:38:06 -0500",
+      "minecraft:piglin_brute": "2021-01-12 01:00:22 -0500",
       "minecraft:creeper": "2021-01-09 23:11:04 -0500",
       "minecraft:phantom": "2021-01-11 23:58:40 -0500",
       "minecraft:wither_skeleton": "2021-01-10 01:39:42 -0500",
@@ -935,6 +936,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2021-01-12 00:48:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-01-12 01:14:24 -0500"
     },
     "done": true
   },
@@ -1465,6 +1472,12 @@
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2021-01-09 23:00:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-01-12 01:18:29 -0500"
     },
     "done": true
   },
@@ -2486,6 +2499,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-01-12 01:14:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 22:32:05 -0500"
@@ -2501,6 +2520,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2021-01-11 20:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-01-12 01:14:24 -0500"
     },
     "done": true
   },
