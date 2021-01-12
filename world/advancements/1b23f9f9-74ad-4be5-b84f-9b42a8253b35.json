@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2021-01-12 01:10:46 -0500"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2021-01-10 23:47:52 -0500"
@@ -77,9 +89,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-10 23:18:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
     },
     "done": true
   },
@@ -119,9 +143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-10 23:54:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
     },
     "done": true
   },
@@ -276,6 +312,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-01-10 23:24:13 -0500"
@@ -327,6 +369,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-01-10 23:59:50 -0500"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2021-01-12 14:51:08 -0500"
     },
     "done": true
   },
@@ -393,6 +441,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-12 01:00:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
     },
     "done": true
   },
@@ -564,6 +618,7 @@
       "minecraft:spider": "2021-01-12 03:46:26 -0500",
       "minecraft:creeper": "2021-01-10 23:42:46 -0500",
       "minecraft:slime": "2021-01-12 01:42:28 -0500",
+      "minecraft:enderman": "2021-01-12 14:04:39 -0500",
       "minecraft:zombie": "2021-01-10 23:41:04 -0500",
       "minecraft:drowned": "2021-01-12 03:40:03 -0500",
       "minecraft:zombie_villager": "2021-01-12 01:41:16 -0500"
@@ -678,6 +733,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-10 23:18:44 -0500"
@@ -750,6 +811,18 @@
       "2": "2021-01-12 02:55:40 -0500"
     },
     "done": false
+  },
+  "create:recipes/create.base/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
   },
   "create:andesite_alloy": {
     "criteria": {
@@ -878,6 +951,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-01-10 23:24:13 -0500"
@@ -986,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-01-10 23:26:33 -0500"
@@ -1052,6 +1143,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2021-01-12 14:25:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_leggings": "2021-01-10 23:24:44 -0500"
@@ -1073,6 +1170,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2021-01-10 23:41:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
     },
     "done": true
   },
@@ -1409,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-01-10 23:32:13 -0500"
@@ -1469,6 +1578,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2021-01-12 02:23:14 -0500"
@@ -1526,6 +1641,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2021-01-12 00:07:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
     },
     "done": true
   },
@@ -1622,6 +1743,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_casing": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-10 23:18:44 -0500"
@@ -1661,6 +1788,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-01-10 23:24:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
     },
     "done": true
   },
@@ -1838,6 +1971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-10 23:51:46 -0500"
@@ -1925,6 +2064,12 @@
   "create:recipes/create.base/blasting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-01-12 00:19:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
     },
     "done": true
   },
@@ -2024,6 +2169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-01-12 01:56:20 -0500"
@@ -2096,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2021-01-12 02:24:30 -0500"
@@ -2117,6 +2274,12 @@
   "create:deployer": {
     "criteria": {
       "0": "2021-01-12 02:59:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2021-01-12 14:25:56 -0500"
     },
     "done": true
   },
@@ -2210,6 +2373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-01-10 23:18:35 -0500"
@@ -2240,6 +2409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-10 23:51:46 -0500"
@@ -2249,6 +2424,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-01-12 01:13:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
     },
     "done": true
   },
@@ -2267,6 +2448,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-12 00:13:00 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2021-01-12 14:54:11 -0500"
     },
     "done": true
   },
@@ -2510,9 +2697,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-01-10 23:54:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-12 14:25:56 -0500"
     },
     "done": true
   },
