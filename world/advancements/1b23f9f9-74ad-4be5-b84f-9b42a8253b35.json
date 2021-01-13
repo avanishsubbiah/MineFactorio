@@ -739,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-01-12 22:03:21 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2021-01-12 14:54:11 -0500"
@@ -1368,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-01-12 22:03:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-01-10 23:24:13 -0500"
@@ -1698,6 +1710,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-12 01:13:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-01-12 22:03:21 -0500"
     },
     "done": true
   },
