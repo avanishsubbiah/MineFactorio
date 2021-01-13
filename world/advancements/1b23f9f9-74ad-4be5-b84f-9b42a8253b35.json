@@ -2013,6 +2013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-01-12 21:52:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-12 01:00:28 -0500"
@@ -2520,6 +2526,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2021-01-12 02:31:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-01-12 21:52:44 -0500"
     },
     "done": true
   },
