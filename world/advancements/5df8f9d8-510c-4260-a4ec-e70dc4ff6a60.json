@@ -408,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
     "criteria": {
       "has_item": "2021-01-10 00:44:43 -0500"
@@ -570,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-01-09 21:38:31 -0500"
@@ -685,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-01-11 19:59:00 -0500"
@@ -755,6 +773,12 @@
   "create:belt_funnel": {
     "criteria": {
       "0": "2021-01-11 00:39:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
     },
     "done": true
   },
@@ -1097,6 +1121,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-01-09 21:38:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
     },
     "done": true
   },
@@ -1968,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-01-09 20:24:38 -0500"
@@ -2037,6 +2073,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-11 19:59:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
     },
     "done": true
   },
@@ -2313,6 +2355,12 @@
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-01-09 19:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-01-13 00:59:20 -0500"
     },
     "done": true
   },
@@ -2601,6 +2649,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-01-10 02:17:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
     },
     "done": true
   },
@@ -2913,6 +2967,7 @@
       "minecraft:enderman": "2021-01-10 19:35:26 -0500",
       "minecraft:silverfish": "2021-01-12 18:32:32 -0500",
       "minecraft:zombie": "2021-01-09 19:51:15 -0500",
+      "minecraft:drowned": "2021-01-13 00:30:27 -0500",
       "minecraft:zombie_villager": "2021-01-09 21:43:30 -0500"
     },
     "done": false
@@ -3435,9 +3490,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-01-13 00:41:36 -0500",
       "minecraft:forest": "2021-01-09 19:40:53 -0500",
       "minecraft:mountains": "2021-01-09 19:38:27 -0500",
+      "minecraft:taiga": "2021-01-13 00:41:24 -0500",
       "minecraft:desert_hills": "2021-01-12 18:29:46 -0500",
+      "minecraft:deep_cold_ocean": "2021-01-13 00:34:15 -0500",
       "minecraft:desert": "2021-01-12 18:27:10 -0500",
       "minecraft:birch_forest": "2021-01-12 18:27:37 -0500",
       "minecraft:deep_lukewarm_ocean": "2021-01-12 18:28:16 -0500",
@@ -3448,6 +3506,7 @@
       "minecraft:lukewarm_ocean": "2021-01-12 18:27:56 -0500",
       "minecraft:wooded_mountains": "2021-01-09 21:43:39 -0500",
       "minecraft:wooded_hills": "2021-01-09 22:25:16 -0500",
+      "minecraft:stone_shore": "2021-01-13 00:35:53 -0500",
       "minecraft:wooded_badlands_plateau": "2021-01-10 23:38:59 -0500",
       "minecraft:swamp": "2021-01-09 21:35:30 -0500",
       "minecraft:savanna": "2021-01-12 18:26:42 -0500",
@@ -3514,6 +3573,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-09 19:30:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2021-01-13 00:22:18 -0500"
     },
     "done": true
   },
@@ -3879,6 +3944,12 @@
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2021-01-11 19:59:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
     },
     "done": true
   },
@@ -4440,6 +4511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-01-13 00:32:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-10 23:39:08 -0500"
@@ -4506,6 +4583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-01-10 01:43:39 -0500"
@@ -4515,6 +4598,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2021-01-09 19:30:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-01-13 00:59:20 -0500"
     },
     "done": true
   },
@@ -4743,6 +4832,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-01-09 21:37:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-13 00:22:35 -0500"
     },
     "done": true
   },
