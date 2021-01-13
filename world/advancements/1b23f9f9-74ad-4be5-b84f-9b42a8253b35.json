@@ -624,6 +624,7 @@
       "minecraft:spider": "2021-01-12 03:46:26 -0500",
       "minecraft:creeper": "2021-01-10 23:42:46 -0500",
       "minecraft:slime": "2021-01-12 01:42:28 -0500",
+      "minecraft:phantom": "2021-01-13 16:48:51 -0500",
       "minecraft:enderman": "2021-01-12 14:04:39 -0500",
       "minecraft:zombie": "2021-01-10 23:41:04 -0500",
       "minecraft:drowned": "2021-01-12 03:40:03 -0500",
@@ -769,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-01-13 16:46:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-01-12 00:13:00 -0500"
@@ -796,6 +803,12 @@
   "create:recipes/create.palettes/andesite_cobblestone_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-12 01:00:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-01-13 16:46:38 -0500"
     },
     "done": true
   },
@@ -839,6 +852,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-01-12 14:18:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-01-13 16:55:03 -0500"
     },
     "done": true
   },
@@ -1104,6 +1123,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2021-01-12 00:13:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-01-13 16:46:38 -0500"
     },
     "done": true
   },
@@ -1697,6 +1722,8 @@
       "cooked_porkchop": "2021-01-10 23:31:37 -0500",
       "cooked_beef": "2021-01-10 23:53:22 -0500",
       "baked_potato": "2021-01-12 00:17:14 -0500",
+      "bread": "2021-01-13 16:50:18 -0500",
+      "rotten_flesh": "2021-01-13 16:40:15 -0500",
       "cod": "2021-01-13 00:10:54 -0500",
       "carrot": "2021-01-10 23:19:23 -0500"
     },
@@ -2077,6 +2104,12 @@
   "create:recipes/create.palettes/smelting/dolomite": {
     "criteria": {
       "has_item": "2021-01-12 01:13:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-01-13 16:55:03 -0500"
     },
     "done": true
   },
@@ -2533,6 +2566,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-01-12 00:12:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-01-13 16:55:03 -0500"
     },
     "done": true
   },
