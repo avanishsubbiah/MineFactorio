@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 19:02:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-01-09 19:29:41 -0500"
@@ -783,6 +789,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-09 19:45:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-01-12 19:02:17 -0500"
     },
     "done": true
   },
@@ -3080,6 +3092,12 @@
   "create:speedometer": {
     "criteria": {
       "0": "2021-01-10 18:14:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2021-01-12 19:04:52 -0500"
     },
     "done": true
   },
