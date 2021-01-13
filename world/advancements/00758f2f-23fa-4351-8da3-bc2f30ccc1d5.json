@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-01-12 23:51:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-10 16:06:38 -0500"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-01-12 23:26:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-01-09 19:36:16 -0500"
@@ -820,6 +832,7 @@
       "minecraft:creeper": "2021-01-09 19:49:12 -0500",
       "minecraft:slime": "2021-01-09 21:25:54 -0500",
       "minecraft:phantom": "2021-01-11 21:25:45 -0500",
+      "minecraft:witch": "2021-01-12 23:17:19 -0500",
       "minecraft:cave_spider": "2021-01-10 16:49:06 -0500",
       "minecraft:piglin": "2021-01-11 21:09:52 -0500",
       "minecraft:silverfish": "2021-01-10 15:44:37 -0500",

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-01-12 23:22:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-09 22:33:32 -0500"
@@ -276,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-12 23:27:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-01-09 19:32:25 -0500"
@@ -411,6 +423,12 @@
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2021-01-10 02:30:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-12 23:27:02 -0500"
     },
     "done": true
   },
@@ -974,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-01-12 23:24:21 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-09 19:45:39 -0500"
@@ -1049,6 +1073,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2021-01-10 18:06:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-12 23:27:02 -0500"
     },
     "done": true
   },
@@ -1329,6 +1359,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-01-09 21:11:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-12 23:27:02 -0500"
     },
     "done": true
   },
@@ -2124,9 +2160,21 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-01-12 23:24:20 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-01-09 19:32:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-01-12 23:02:57 -0500"
     },
     "done": true
   },
@@ -2460,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-12 23:24:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-09 22:33:32 -0500"
@@ -2481,6 +2535,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-01-09 19:30:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-01-12 23:24:21 -0500"
     },
     "done": true
   },
@@ -2553,6 +2613,12 @@
   "create:recipes/misc/blasting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2021-01-12 19:02:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-12 23:24:21 -0500"
     },
     "done": true
   },
@@ -2790,6 +2856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-12 23:27:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 22:32:05 -0500"
@@ -2836,6 +2908,7 @@
       "minecraft:zombified_piglin": "2021-01-12 18:11:13 -0500",
       "minecraft:wither_skeleton": "2021-01-10 01:39:42 -0500",
       "minecraft:ender_dragon": "2021-01-12 18:45:28 -0500",
+      "minecraft:shulker": "2021-01-12 23:24:28 -0500",
       "minecraft:piglin": "2021-01-09 21:12:00 -0500",
       "minecraft:enderman": "2021-01-10 19:35:26 -0500",
       "minecraft:silverfish": "2021-01-12 18:32:32 -0500",
@@ -3141,6 +3214,12 @@
   "create:recipes/misc/blasting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2021-01-10 22:18:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-12 23:27:02 -0500"
     },
     "done": true
   },
@@ -3675,6 +3754,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 21:15:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-12 23:24:21 -0500"
     },
     "done": true
   },
@@ -4397,6 +4482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-01-12 23:24:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-01-10 02:21:51 -0500"
@@ -4589,6 +4680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-01-12 23:24:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 22:32:05 -0500"
@@ -4670,6 +4767,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-01-09 22:49:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-12 23:24:21 -0500"
     },
     "done": true
   },
