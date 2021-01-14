@@ -2248,6 +2248,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_weathered_limestone_slab": {
+    "criteria": {
+      "has_polished_weathered_limestone": "2021-01-14 16:57:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-12 00:31:10 -0500"
@@ -2572,6 +2578,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_weathered_limestone_wall_from_polished_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_polished_weathered_limestone": "2021-01-14 16:57:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-01-10 23:51:46 -0500"
@@ -2728,6 +2740,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_weathered_limestone_stairs": {
+    "criteria": {
+      "has_polished_weathered_limestone": "2021-01-14 16:57:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-10 23:54:28 -0500"
@@ -2863,6 +2881,12 @@
   "create:recipes/create.base/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2021-01-14 00:57:40 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_weathered_limestone_wall": {
+    "criteria": {
+      "has_polished_weathered_limestone": "2021-01-14 16:57:06 -0500"
     },
     "done": true
   },
@@ -3238,6 +3262,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_weathered_limestone_stairs_from_polished_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_polished_weathered_limestone": "2021-01-14 16:57:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-01-10 23:32:20 -0500"
@@ -3349,6 +3379,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2021-01-14 00:57:40 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_weathered_limestone_slab_from_polished_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_polished_weathered_limestone": "2021-01-14 16:57:06 -0500"
     },
     "done": true
   },
