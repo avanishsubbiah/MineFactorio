@@ -832,6 +832,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2021-01-14 17:13:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2021-01-10 23:59:54 -0500"
