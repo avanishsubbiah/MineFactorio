@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-01-15 20:01:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-10 23:18:44 -0500"
@@ -666,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-01-15 20:07:18 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2021-01-12 02:30:04 -0500"
@@ -754,6 +766,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2021-01-12 02:23:14 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2021-01-15 20:07:56 -0500"
     },
     "done": true
   },
@@ -1711,6 +1729,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-01-15 19:57:51 -0500",
+      "minecraft:nether_wastes": "2021-01-15 20:09:19 -0500",
       "minecraft:soul_sand_valley": "2021-01-15 19:53:20 -0500",
       "minecraft:warped_forest": "2021-01-10 23:14:27 -0500"
     },
@@ -1827,6 +1846,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2021-01-12 02:31:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-01-15 20:07:56 -0500"
     },
     "done": true
   },
@@ -3142,6 +3167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-01-15 20:01:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-01-12 14:18:30 -0500"
@@ -3205,6 +3236,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2021-01-12 02:23:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-01-15 20:07:18 -0500"
     },
     "done": true
   },
@@ -3517,6 +3554,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2021-01-14 01:14:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-01-15 20:01:43 -0500"
     },
     "done": true
   },
