@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-01-16 19:17:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-10 01:16:16 -0500"
@@ -2857,6 +2863,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-01-09 19:38:29 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2021-01-16 19:17:56 -0500"
     },
     "done": true
   },
