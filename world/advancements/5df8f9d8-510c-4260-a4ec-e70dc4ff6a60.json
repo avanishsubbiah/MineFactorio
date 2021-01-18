@@ -824,6 +824,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-01-09 20:24:38 -0500"
@@ -857,6 +863,12 @@
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2021-01-09 20:00:47 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_weathered_limestone_bricks_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
     },
     "done": true
   },
@@ -1440,6 +1452,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/mossy_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-01-09 19:30:14 -0500"
@@ -1776,6 +1794,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_pillar_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-01-09 19:32:25 -0500"
@@ -1857,6 +1881,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-01-09 23:37:59 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
     },
     "done": true
   },
@@ -2322,6 +2352,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-09 19:45:39 -0500"
@@ -2487,6 +2523,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2021-01-10 02:31:44 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
     },
     "done": true
   },
@@ -2700,6 +2742,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2021-01-12 19:02:17 -0500"
@@ -2793,6 +2841,12 @@
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-09 19:41:41 -0500"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2021-01-17 23:55:45 -0500"
     },
     "done": true
   },
@@ -3099,6 +3153,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_pillar": {
+    "criteria": {
+      "has_ingredient": "2021-01-17 23:30:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-09 19:41:41 -0500"
@@ -3186,6 +3246,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2021-01-11 00:47:50 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_weathered_limestone": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
     },
     "done": true
   },
@@ -3366,6 +3432,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-01-09 20:24:45 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_bricks_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
     },
     "done": true
   },
@@ -4602,6 +4674,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2021-01-09 23:47:52 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-01-17 23:30:55 -0500"
     },
     "done": true
   },
