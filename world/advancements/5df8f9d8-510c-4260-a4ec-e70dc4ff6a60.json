@@ -456,6 +456,12 @@
     },
     "done": true
   },
+  "create:integrated_circuit": {
+    "criteria": {
+      "0": "2021-01-18 13:40:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-09 22:33:32 -0500"
@@ -2046,6 +2052,12 @@
     },
     "done": true
   },
+  "create:integrated_circuit_eob": {
+    "criteria": {
+      "0": "2021-01-18 13:40:49 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2021-01-09 20:24:38 -0500"
@@ -3489,6 +3501,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2021-01-18 13:45:20 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sail_frame": {
     "criteria": {
       "has_item": "2021-01-09 20:00:47 -0500"
@@ -4548,6 +4566,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-01-12 18:31:00 -0500"
+    },
+    "done": true
+  },
+  "create:tunnel": {
+    "criteria": {
+      "0": "2021-01-18 13:30:29 -0500"
     },
     "done": true
   },
