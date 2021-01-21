@@ -3741,6 +3741,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2021-01-21 16:55:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-01-09 19:32:25 -0500"
